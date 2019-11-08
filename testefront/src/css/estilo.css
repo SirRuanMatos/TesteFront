@@ -1,0 +1,13 @@
+.desc_info_perfil_login {
+  font-size: 1.8rem;
+  margin: 0;
+  overflow-wrap: break-word;
+}
+
+.desc_info_perfil {
+  overflow-wrap: break-word;
+}
+
+.bota_paginacao {
+  height: 3rem !important;
+}
